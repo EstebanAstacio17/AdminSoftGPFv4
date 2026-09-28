@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="AdminSoftGPF.API/AdminSoftGPF.API.csproj" />
+  <Project Path="AdminSoftGPF.Application/AdminSoftGPF.Application.csproj" />
+  <Project Path="AdminSoftGPF.Domain/AdminSoftGPF.Domain.csproj" />
+  <Project Path="AdminSoftGPF.Functions/AdminSoftGPF.Functions.csproj" />
+  <Project Path="AdminSoftGPF.Infrastructure/AdminSoftGPF.Infrastructure.csproj" />
+</Solution>
